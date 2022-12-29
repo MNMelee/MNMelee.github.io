@@ -6,7 +6,7 @@ const playerBoxes = document.querySelectorAll(".player-container");
 const rankingBoxes = document.querySelectorAll(".ranking-box");
 // const blurbs = document.querySelectorAll(".blurb-container");
 // const headings = document.querySelectorAll(".heading");
-const intro = document.getElementById("intro");
+// const intro = document.getElementById("intro");
 // const button = document.getElementById("button");
 
 function modeChange() {
@@ -40,7 +40,7 @@ function modeChange() {
         //     element.style.color = "#FFFFFF";
         // });
 
-        intro.style.color = "#FFFFFF";
+        // intro.style.color = "#FFFFFF";
         // button.style.backgroundColor = "#212121";
         // button.style.outlineWidth = "0px";
     }
@@ -74,7 +74,7 @@ function modeChange() {
         //     element.style.color = "#212121";
         // });
 
-        intro.style.color = "#212121";
+        // intro.style.color = "#212121";
         // button.style.backgroundColor = "#E0E0E0";
         // button.style.outlineWidth = "2px";
     }
