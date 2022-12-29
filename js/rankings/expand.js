@@ -122,7 +122,7 @@ let joeydonuts = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Home Town: <span class="place">Blaine</span></td>
+        <td>Home Town: <span class="place">St. Louis Park</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
@@ -162,7 +162,7 @@ let nakamaman = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Home Town: <span class="place">?</span></td>
+        <td>Home Town: <span class="place">Blaine</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
