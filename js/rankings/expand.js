@@ -166,7 +166,7 @@ let nakamaman = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">?</span></td>
+        <td>Controller Type: <span class="place">Phob</span></td>
     </tr>
 </table>`
 
@@ -186,7 +186,7 @@ let dendy = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">?</span></td>
+        <td>Controller Type: <span class="place">OEM</span></td>
     </tr>
 </table>`
 
@@ -206,7 +206,7 @@ let royal = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">Phob</span></td>
+        <td>Controller Type: <span class="place">?</span></td>
     </tr>
 </table>`
 
@@ -218,7 +218,7 @@ let thom = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Best Win: <span class="place">Ben</span></td>
+        <td>Best Win: <span class="place">Royal</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
@@ -266,7 +266,7 @@ let lamonster = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">?</span></td>
+        <td>Controller Type: <span class="place">Phob</span></td>
     </tr>
 </table>`
 
@@ -286,7 +286,7 @@ let rand = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">?</span></td>
+        <td>Controller Type: <span class="place">Phob</span></td>
     </tr>
 </table>`
 
