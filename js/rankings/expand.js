@@ -290,5 +290,5 @@ let rand = `
     </tr>
 </table>`
 
-let insanelyLongArray = ["", zain, mango, aMSa, iBDW, hungrybox, jmook, leffen, plup, 
-jim, axe, llod];
+let insanelyLongArray = ["", ben, preeminent, joeydonuts, lexor, nakamaman,
+dendy, royal, thom, jim, lamonster, rand];
