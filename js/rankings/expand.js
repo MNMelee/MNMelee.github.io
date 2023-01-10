@@ -106,7 +106,7 @@ let preeminent = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">Phob</span></td>
+        <td>Controller Type: <span class="place">Goomwave</span></td>
     </tr>
 </table>`
 
