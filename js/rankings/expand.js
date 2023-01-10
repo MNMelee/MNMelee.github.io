@@ -206,7 +206,7 @@ let royal = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Controller Type: <span class="place">?</span></td>
+        <td>Controller Type: <span class="place">Phob</span></td>
     </tr>
 </table>`
 
