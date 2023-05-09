@@ -290,5 +290,25 @@ let amanze = `
     </tr>
 </table>`
 
+let tarik = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Tournaments Entered: <span class="place">10</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Best Win: <span class="place">Tr4shJ4ck</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Home Town: <span class="place">Austin</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Controller Type: <span class="place">Phob</span></td>
+    </tr>
+</table>`
+
 let insanelyLongArray = ["", preeminent, ben, lexor, joeydonuts, jim, thom, 
-royal, trashjack, guyfly, lamonster, amanze, quinn];
+royal, trashjack, guyfly, lamonster, amanze, tarik];
