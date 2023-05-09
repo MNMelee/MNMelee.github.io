@@ -291,4 +291,4 @@ let amanze = `
 </table>`
 
 let insanelyLongArray = ["", preeminent, ben, lexor, joeydonuts, jim, thom, 
-royal, trashjack, guyfly, lamonster, amanze];
+royal, trashjack, guyfly, lamonster, amanze, quinn];
