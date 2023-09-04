@@ -254,7 +254,7 @@ let tarik = `
 <table class="result-table">
     <tr>
         <td>&#9733;</td>
-        <td>Tournaments Entered: <span class="place">10</span></td>
+        <td>Tournaments Entered: <span class="place">26</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
