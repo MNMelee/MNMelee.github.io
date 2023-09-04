@@ -130,26 +130,6 @@ let joeydonuts = `
     </tr>
 </table>`
 
-let nakamaman = `
-<table class="result-table">
-    <tr>
-        <td>&#9733;</td>
-        <td>Tournaments Entered: <span class="place">7</span></td>
-    </tr>
-    <tr>
-        <td>&#9733;</td>
-        <td>Best Win: <span class="place">lexor</span></td>
-    </tr>
-    <tr>
-        <td>&#9733;</td>
-        <td>Home Town: <span class="place">Blaine</span></td>
-    </tr>
-    <tr>
-        <td>&#9733;</td>
-        <td>Controller Type: <span class="place">Phob</span></td>
-    </tr>
-</table>`
-
 let lexor = `
 <table class="result-table">
     <tr>
@@ -163,6 +143,26 @@ let lexor = `
     <tr>
         <td>&#9733;</td>
         <td>Home Town: <span class="place">Brooklyn Park</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Controller Type: <span class="place">Phob</span></td>
+    </tr>
+</table>`
+
+let nakamaman = `
+<table class="result-table">
+    <tr>
+        <td>&#9733;</td>
+        <td>Tournaments Entered: <span class="place">7</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Best Win: <span class="place">Joey Donuts</span></td>
+    </tr>
+    <tr>
+        <td>&#9733;</td>
+        <td>Home Town: <span class="place">Blaine</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
