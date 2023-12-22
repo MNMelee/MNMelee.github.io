@@ -182,7 +182,7 @@ let jim = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Home Town: <span class="place">Eden Prarie</span></td>
+        <td>Home Town: <span class="place">Eden Prairie</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
@@ -238,7 +238,7 @@ let landon = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Best Win: <span class="place">Tr4shJ4ck</span></td>
+        <td>Best Win: <span class="place">Jim</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
@@ -278,7 +278,7 @@ let tarik = `
     </tr>
     <tr>
         <td>&#9733;</td>
-        <td>Best Win: <span class="place">Tr4shJ4ck</span></td>
+        <td>Best Win: <span class="place">Jim</span></td>
     </tr>
     <tr>
         <td>&#9733;</td>
