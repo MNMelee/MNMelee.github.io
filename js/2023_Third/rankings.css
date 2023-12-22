@@ -1,0 +1,266 @@
+/* Header */
+
+#header-text {
+    color: #212121;
+    text-align: center;
+    font-size:4em;
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+
+h1 {
+    color: #212121;
+}
+
+.bh {
+    margin: -10px;
+}
+
+/* Body */
+
+.layout-container {
+    display: flex;
+    flex-direction: column; /* Set to reverse for pictures */
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    min-width: 1200px;
+}
+
+.player-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+    background-color: #212121;
+    width: 50%;
+
+    text-align: left;
+    color: #FFFFFF;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #424242;
+    margin: 5px;
+
+    transition: height .5s;
+}
+
+.u-player {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    
+    padding: 5px;
+    margin-bottom: 0;
+}
+
+.ranking-box {
+    color: var(--highlight-color);
+    background-color: #424242;
+    text-align: center;
+    font-size: 2.5em;
+    width: 85px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #616161;
+}
+
+/* Sponsor stuff */
+.sponsor-box {
+    padding-left:25px;
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+.s-img { /* Also for stock icons */
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+/* Stock icon */
+
+.stock-box { /* Also used for flag */
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.stock-top {
+    top:25px;
+}
+
+.stock-neg-margin {
+    margin-left:-10px;
+}
+
+/* Player details */
+
+.player-details {
+    justify-content: center;
+    justify-items: center;
+    margin-left: 5px;
+}
+
+/* Name stuff */
+
+.gamertag {
+    font-size: 2.25em;
+    font-weight: 600;
+}
+
+.real-name {
+    font-weight: 400;
+    color: #757575;
+}
+
+/* Blurbs */
+
+#intro {
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: -30px;
+    color: #FFFFFF;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
+.blurb-container {
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+    color: #FFFFFF;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
+.blurb-container p {
+    margin-top: 0px;
+}
+
+/* Tables */
+
+.results {
+    width: 100%;
+    text-align: left;
+}
+
+.result-table {
+    border: 0px;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: -5px; /* this is dumb but works */
+
+    text-align: left;
+    font-size: 1.25em;
+}
+
+.result-table tr{
+    background-color: #424242;
+    height: 45px;
+
+    outline-style: solid;
+    outline-width: 0px;
+    outline-color: #616161;
+}
+
+.result-table td:nth-child(odd) {
+    text-align: center;
+}
+
+.place {
+    color: var(--highlight-color);
+}
+
+/* Change in rank */
+
+.change {
+    font-size: 2.25em;
+    position: absolute;
+    margin-top: 12px;
+}
+
+.pos {
+    left: 71.5%;
+    color: #4CAF50;
+}
+
+.neg {
+    left: 71.8%;
+    color: #F44336;
+}
+
+.no {
+    left: 72.3%;
+    color: #9E9E9E;
+}
+
+.new {
+    left: 71.6%;
+    color: #FFC107;
+}
+
+/* Button */
+
+#button {
+    color: var(--highlight-color);
+    background-color: #212121;
+
+    border: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+
+    outline-color: #424242;
+    outline-width: 0px;
+    outline-style: solid;
+}
+
+/* Footer */
+
+footer {
+    margin: 25px;
+    font-size: 1.25em;
+    color: #212121;
+}
+
+footer a {
+    color: #424242;
+    margin: 10px;
+}
+
+footer a:hover {
+    color: #9E9E9E;
+    color: #90CAF9;
+}
+
+/* Random */
+
+.rc {
+    color: var(--highlight-color);
+}

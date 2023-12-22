@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: LibreFranklin;
-    src: url(resources/LibreFranklin.ttf)
+    src: url(../../resources/LibreFranklin.ttf)
 }
 
 :root {
-    --highlight-color: #81D4FA;
+    --highlight-color: #90CAF9;
     --mouseover-color: #FAFAFA
 }
 
@@ -30,7 +30,8 @@ body {
     min-width: 750px;
     font-family: LibreFranklin;
     font-weight: 600;
-    background-color: #424242;
+    background-image: url("../../resources/WinterBG.jpg");
+    /* background-color: #424242; */
     text-align: center;
     color: #FFFFFF;
 }
